@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at https://testops.staging.katalon.com/login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project",
+        "step 4: At Page_project click on hyperlink_configurations --> navigate to Page_test-project",
+        "step 5: At Page_test-project click on hyperlink_testcloud_tunnels --> navigate to Page_testCloudTunnel",
+        "step 6: At Page_testCloudTunnel click on hyperlink_test_environments --> navigate to Page_agent",
+        "step 7: At Page_agent click on hyperlink_team_project_agent_k8s --> navigate to Page_agent_k8s",
+        "step 8: At Page_agent_k8s click on hyperlink_team_project_agent_circle_ci --> navigate to Page_agent_circle-ci",
+        "step 9: At Page_agent_circle-ci click on hyperlink_team_project_agent_test_cloud --> navigate to Page_agent_test-cloud",
+        "step 10: Add visual checkpoint at Page_agent_test-cloud"
+    ]
+}

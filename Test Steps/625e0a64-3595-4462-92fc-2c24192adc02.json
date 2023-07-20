@@ -1,0 +1,25 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at https://testops.staging.katalon.com/login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project",
+        "step 4: At Page_project click on hyperlink_configurations --> navigate to Page_test-project",
+        "step 5: At Page_test-project click on hyperlink_connect_git_script_repository --> navigate to Page_git-test-project_setup",
+        "step 6: At Page_git-test-project_setup click on div_object",
+        "step 7: At Page_git-test-project_setup click on div_object",
+        "step 8: At Page_git-test-project_setup click on div_object",
+        "step 9: At Page_git-test-project_setup click on button_object --> navigate to Page_test-project",
+        "step 10: At Page_test-project click on hyperlink_executions --> navigate to Page_test-planning",
+        "step 11: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid",
+        "step 12: At Page_grid click on button_execute_plan",
+        "step 13: At Page_grid click on hyperlink_menu_reports --> navigate to Page_overview",
+        "step 14: At Page_overview click on hyperlink_requirements --> navigate to Page_test-reports_test-design_requirement-test-run-coverage",
+        "step 15: At Page_test-reports_test-design_requirement-test-run-coverage click on hyperlink_test_cases --> navigate to Page_test-reports_test-maintenance_active",
+        "step 16: At Page_test-reports_test-maintenance_active click on hyperlink_defects --> navigate to Page_defects",
+        "step 17: At Page_defects click on button_recent_work",
+        "step 18: At Page_defects click on div_object",
+        "step 19: At Page_defects click on hyperlink_test_cases --> navigate to Page_test-reports_test-maintenance_active",
+        "step 20: At Page_test-reports_test-maintenance_active click on hyperlink_requirements --> navigate to Page_test-reports_test-design_requirement-test-run-coverage",
+        "step 21: Add visual checkpoint at Page_test-reports_test-design_requirement-test-run-coverage"
+    ]
+}

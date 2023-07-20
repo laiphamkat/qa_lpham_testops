@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at https://testops.staging.katalon.com/login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project",
+        "step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning",
+        "step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid",
+        "step 6: At Page_grid click on hyperlink_team_project_grid_plan_job --> navigate to Page_job",
+        "step 7: At Page_job click on hyperlink_team_project_grid_plan_job_summary --> navigate to Page_job_summary",
+        "step 8: At Page_job_summary click on hyperlink_team_project_grid_plan_job_session --> navigate to Page_job_session",
+        "step 9: Add visual checkpoint at Page_job_session"
+    ]
+}

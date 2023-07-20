@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at https://testops.staging.katalon.com/login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_view_all_projects --> navigate to Page_teams_projects",
+        "step 4: Add visual checkpoint at Page_teams_projects"
+    ]
+}
