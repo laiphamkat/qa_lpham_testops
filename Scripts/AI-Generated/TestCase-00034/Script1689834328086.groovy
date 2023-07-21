@@ -106,9 +106,11 @@ WebUI.enhancedClick(testObj)
 
 'step 6: At Page_test-environment-installation input on input_agentname'
 
-testObj = findTestObject('Object Repository/Page_team_project_test-environment-installation/input_agentname')
-
-WebUI.delay(3)
+testObj =  findTestObject('Object Repository/Page_team_project_test-environment-installation/input_agentname')
+WebUI.waitForElementClickable(testObj, 30)
+//
+//WebUI.delay(3)
+//WebUI.w
 
 WebUI.takeScreenshot()
 
