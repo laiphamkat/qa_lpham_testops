@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at https://testops.staging.katalon.com/login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project",
+        "step 4: At Page_project click on hyperlink_tests --> navigate to Page_test-design_test-cases",
+        "step 5: At Page_test-design_test-cases click on div_root_uploaded_data",
+        "step 6: At Page_test-design_test-cases click on div_1743680",
+        "step 7: At Page_test-design_test-cases click on hyperlink_test_case_detail --> navigate to Page_test-design_test-cases-sample-tc",
+        "step 8: At Page_test-design_test-cases-sample-tc click on button_object --> navigate to Page_test-design_test-cases",
+        "step 9: At Page_test-design_test-cases click on hyperlink_menu_reports --> navigate to Page_overview",
+        "step 10: At Page_overview click on hyperlink_team_project_executions --> navigate to Page_executions",
+        "step 11: At Page_executions click on hyperlink_team_project_test_reports_test_executio --> navigate to Page_test-reports_test-execution_test-performance",
+        "step 12: Add visual checkpoint at Page_test-reports_test-execution_test-performance"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at https://testops.staging.katalon.com/login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project",
+        "step 4: At Page_project click on hyperlink_menu_reports --> navigate to Page_overview",
+        "step 5: At Page_overview click on hyperlink_menu_reports",
+        "step 6: At Page_overview click on hyperlink_test_cases --> navigate to Page_test-reports_test-maintenance_active",
+        "step 7: At Page_test-reports_test-maintenance_active click on hyperlink_requirements --> navigate to Page_test-reports_test-design_requirement-test-run-coverage",
+        "step 8: Add visual checkpoint at Page_test-reports_test-design_requirement-test-run-coverage"
+    ]
+}
