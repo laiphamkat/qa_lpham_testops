@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at Page_login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project",
+        "step 4: At Page_project click on hyperlink_configurations --> navigate to Page_test-project",
+        "step 5: At Page_test-project click on hyperlink_test_environments --> navigate to Page_agent",
+        "step 6: At Page_agent click on hyperlink_team_project_agent_local --> navigate to Page_agent_local",
+        "step 7: Add visual checkpoint at Page_agent_local"
+    ]
+}
