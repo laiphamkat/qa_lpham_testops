@@ -1,0 +1,135 @@
+Flow ID,Test Steps,Flow Priority
+4,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid
+step 6: At Page_grid click on hyperlink_team_project_grid_plan_job --> navigate to Page_job
+step 7: At Page_job click on hyperlink_click_test_run_details --> navigate to Page_executions
+step 8: At Page_executions click on hyperlink_team_project_grid_plan_job --> navigate to Page_job
+step 9: Add visual checkpoint at Page_job",High
+9,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid
+step 6: At Page_grid click on hyperlink_team_project_grid_plan_job --> navigate to Page_job
+step 7: At Page_job click on hyperlink_click_test_run_details --> navigate to Page_executions
+step 8: At Page_executions click on hyperlink_requirements --> navigate to Page_test-reports_test-design_requirement-test-run-coverage
+step 9: At Page_test-reports_test-design_requirement-test-run-coverage click on hyperlink_test_cases --> navigate to Page_test-reports_test-maintenance_active
+step 10: Add visual checkpoint at Page_test-reports_test-maintenance_active",High
+3,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid
+step 6: At Page_grid click on hyperlink_tests --> navigate to Page_test-design_test-cases
+step 7: At Page_test-design_test-cases click on div_root_uploaded_data
+step 8: At Page_test-design_test-cases click on div_root_uploaded_data
+step 9: Add visual checkpoint at Page_test-design_test-cases",High
+5,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid
+step 6: At Page_grid click on hyperlink_tests --> navigate to Page_test-design_test-cases
+step 7: At Page_test-design_test-cases click on hyperlink_test_suites --> navigate to Page_test-design_test-suites
+step 8: At Page_test-design_test-suites click on hyperlink_test_objects --> navigate to Page_test-design_test-objects
+step 9: Add visual checkpoint at Page_test-design_test-objects",High
+7,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid
+step 6: At Page_grid click on hyperlink_configurations --> navigate to Page_test-project
+step 7: At Page_test-project click on hyperlink_agent_setup --> navigate to Page_test-environment-installation
+step 8: At Page_test-environment-installation click on hyperlink_integrations --> navigate to Page_integrations
+step 9: Add visual checkpoint at Page_integrations",High
+6,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid
+step 6: At Page_grid click on hyperlink_configurations --> navigate to Page_test-project
+step 7: At Page_test-project click on hyperlink_connect_git_script_repository --> navigate to Page_git-test-project_setup
+step 8: At Page_git-test-project_setup click on div_object
+step 9: At Page_git-test-project_setup click on div_object
+step 10: At Page_git-test-project_setup click on button_object --> navigate to Page_test-project
+step 11: Add visual checkpoint at Page_test-project",High
+13,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid
+step 6: At Page_grid click on hyperlink_menu_reports --> navigate to Page_overview
+step 7: At Page_overview click on hyperlink_team_project_executions --> navigate to Page_executions
+step 8: At Page_executions click on td_object
+step 9: At Page_executions click on hyperlink_click_test_run_details
+step 10: At Page_executions click on hyperlink_menu_visual_testing --> navigate to Page_katalon-eyes
+step 11: Add visual checkpoint at Page_katalon-eyes",High
+10,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid
+step 6: At Page_grid click on hyperlink_tests --> navigate to Page_test-design_test-cases
+step 7: At Page_test-design_test-cases click on hyperlink_planning --> navigate to Page_releases
+step 8: At Page_releases click on hyperlink_team_project_releases
+step 9: At Page_releases click on hyperlink_team_project_releases_executions --> navigate to Page_executions
+step 10: Add visual checkpoint at Page_executions",High
+11,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid
+step 6: At Page_grid click on hyperlink_tests --> navigate to Page_test-design_test-cases
+step 7: At Page_test-design_test-cases click on hyperlink_planning --> navigate to Page_releases
+step 8: At Page_releases click on hyperlink_requirements --> navigate to Page_requirements
+step 9: At Page_requirements click on hyperlink_team_project_test_reports_test_design_t --> navigate to Page_test-reports_test-design_traceability-report
+step 10: Add visual checkpoint at Page_test-reports_test-design_traceability-report",High
+14,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid
+step 6: At Page_grid click on hyperlink_menu_reports --> navigate to Page_overview
+step 7: At Page_overview click on hyperlink_team_project_executions --> navigate to Page_executions
+step 8: At Page_executions click on hyperlink_team_project_test_reports_test_executio --> navigate to Page_test-reports_test-execution_test-performance
+step 9: At Page_test-reports_test-execution_test-performance click on hyperlink_team_project_test_reports_test_executio --> navigate to Page_test-reports_test-execution_frequency-report
+step 10: Add visual checkpoint at Page_test-reports_test-execution_frequency-report",High
+8,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid
+step 6: At Page_grid click on hyperlink_configurations --> navigate to Page_test-project
+step 7: At Page_test-project click on hyperlink_testcloud_tunnels --> navigate to Page_testCloudTunnel
+step 8: At Page_testCloudTunnel click on hyperlink_custom_fields --> navigate to Page_custom-fields
+step 9: Add visual checkpoint at Page_custom-fields",High
+12,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid
+step 6: At Page_grid click on hyperlink_configurations --> navigate to Page_test-project
+step 7: At Page_test-project click on hyperlink_team_project_test_project
+step 8: At Page_test-project click on hyperlink_test_environments --> navigate to Page_agent
+step 9: At Page_agent click on hyperlink_team_project_agent_test_cloud --> navigate to Page_agent_test-cloud
+step 10: Add visual checkpoint at Page_agent_test-cloud",High
+2,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid
+step 6: At Page_grid click on button_execute_plan
+step 7: At Page_grid click on button_open_schedule_dialog
+step 8: At Page_grid click on div_object
+step 9: At Page_grid click on div_react_select_2_option_3
+step 10: At Page_grid click on div_object
+step 11: At Page_grid click on li_object
+step 12: At Page_grid click on div_object
+step 13: Add visual checkpoint at Page_grid",High
+1,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on button_select_organization
+step 4: Add visual checkpoint at Page_home",Low

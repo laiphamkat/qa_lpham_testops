@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at Page_login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project",
+        "step 4: At Page_project click on hyperlink_executions --> navigate to Page_test-planning",
+        "step 5: At Page_test-planning click on hyperlink_test_run_list --> navigate to Page_grid",
+        "step 6: At Page_grid click on hyperlink_configurations --> navigate to Page_test-project",
+        "step 7: At Page_test-project click on hyperlink_team_project_test_project",
+        "step 8: At Page_test-project click on hyperlink_test_environments --> navigate to Page_agent",
+        "step 9: At Page_agent click on hyperlink_team_project_agent_test_cloud --> navigate to Page_agent_test-cloud",
+        "step 10: Add visual checkpoint at Page_agent_test-cloud"
+    ]
+}
